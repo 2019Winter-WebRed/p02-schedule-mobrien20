@@ -1,0 +1,25 @@
+/*
+* Meaghan O'Brien 
+* 25 March 2019
+* Schedule
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+/* Background color of website*/
+body { background-color: lightpink;}
+/* color of table border*/
+table, td, th {border: 2px solid purple;}
+table {border-collapse: collapse;}
+/* color of table title and column names*/
+thead {background-color: lightblue;}
+/* color of table background*/
+tbody {background-color: lightyellow}
+/* color of end of table (the table foot)*/
+tfoot {background-color: blanchedalmond;}
